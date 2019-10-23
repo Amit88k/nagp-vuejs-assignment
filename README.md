@@ -30,3 +30,26 @@ npm run test:e2e
 ```
 npm run lint
 ```
+
+### How it works
+### Home
+```
+Home page loads all the articles. Click on the article to read in detail. Clink on the author name to know about the author.
+In articles, you can comment also.
+```
+### Sign up
+```
+craetes your account
+```
+### Sign in
+```
+Login to your account
+```
+###
+```
+Click on your user name to get your published articles and favouraite article
+```
+### Settings
+```
+Here, you can update your information. Also can log out.
+```
